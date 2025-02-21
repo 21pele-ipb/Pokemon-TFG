@@ -1,0 +1,11 @@
+BATTLE_BOT=minimax
+WEBSOCKET_URI=wss://sim3.psim.us/showdown/websocket
+PS_USERNAME=21pele
+PS_PASSWORD=nicoPau2
+BOT_MODE=SEARCH_LADDER
+POKEMON_MODE=gen7randombattle
+RUN_COUNT=2
+
+USER_TO_CHALLENGE=22pele
+TEAM_NAME=gen8/ou/clef_sand
+SAVE_REPLAY=False
