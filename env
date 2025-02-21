@@ -1,7 +1,7 @@
 BATTLE_BOT=minimax
 WEBSOCKET_URI=wss://sim3.psim.us/showdown/websocket
-PS_USERNAME=21pele
-PS_PASSWORD=nicoPau2
+PS_USERNAME=unm
+PS_PASSWORD=pw
 BOT_MODE=SEARCH_LADDER
 POKEMON_MODE=gen7randombattle
 RUN_COUNT=2
