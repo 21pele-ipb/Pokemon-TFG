@@ -10,7 +10,7 @@
 
 ES NECESARIO TENER RUST INSTALADO
 
-**3. Configura tu fichero [env](https://github.com/21-pele-ipb/Pokemon-TFG/env)**
+**3. Configura tu fichero env**
 
 Ejemplo:
 ```
